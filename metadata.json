@@ -1,0 +1,6 @@
+{
+  "name": "College Enquiry Chatbot",
+  "description": "A highly intelligent, interactive full-stack college admission and student enquiry chatbot featuring personalized student dashboards, academic progress visualizers, and AI-powered multi-modal query resolution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
